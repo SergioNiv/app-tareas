@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACC,eAAgB,CAChB,YACD,CACA,SACC,4BACD","file":"main.478d9281.chunk.css","sourcesContent":["body {\n\tmin-width: 400px;\n\tpadding: 70px;\n}\n.tachado {\n\ttext-decoration: line-through;\n}\n"]}
