@@ -1,0 +1,7 @@
+body {
+	min-width: 400px;
+	padding: 70px;
+}
+.tachado {
+	text-decoration: line-through;
+}
